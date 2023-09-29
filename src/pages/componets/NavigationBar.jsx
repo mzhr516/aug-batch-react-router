@@ -19,6 +19,9 @@ export const NavigationBar = () => {
           <li>
             <NavLink to="service">services</NavLink>
           </li>
+          <li>
+            <NavLink to="content">Content</NavLink>
+          </li>
         </ul>
       </nav>
     </div>
