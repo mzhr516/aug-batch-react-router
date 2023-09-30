@@ -22,6 +22,9 @@ export const NavigationBar = () => {
           <li>
             <NavLink to="content">Content</NavLink>
           </li>
+          <li>
+            <NavLink to="books">Books</NavLink>
+          </li>
         </ul>
       </nav>
     </div>
